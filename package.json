@@ -1,0 +1,14 @@
+{
+  "name": "mini-challenges-coddy",
+  "version": "1.0.0",
+  "description": "A repository to hold the mini challenges completed while using Coddy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgina Carlisle",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
