@@ -4,7 +4,7 @@
   "description": "A repository to hold the mini challenges completed while using Coddy.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Georgina Carlisle",
   "license": "ISC",
