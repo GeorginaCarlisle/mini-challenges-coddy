@@ -4,7 +4,8 @@ A repository to hold the mini challenges completed while using Coddy.
 
 ## Challenges
 
-### Credit
+- Credit
+- Substitution
 
 ## Set-up
 
