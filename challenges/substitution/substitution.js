@@ -3,7 +3,6 @@ function substitution(key, message) {
   for ( let i = 0; i < key.length; i++) {
     keyObject[String.fromCharCode(65 + i)] = key[i];
   }
-  console.log(keyObject);
   
   let encryptedMessage = '';
   for ( let i = 0; i < message.length; i++) {
