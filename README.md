@@ -4,8 +4,9 @@ A repository to hold the mini challenges completed while using Coddy.
 
 ## Challenges
 
-- Credit
-- Substitution
+- Credit: Takes a number and returns if it's a valid credit card number.
+- Substitution: Takes a string and key and returns an encrypted version of the string.
+- Palindrome: Takes a string and returns if it's a palindrome.
 
 ## Set-up
 
