@@ -2,8 +2,9 @@
 
 A repository to hold the mini challenges completed while using Coddy.
 
-## Challenges
+## Easy Challenges
 
+- Anagrams: Takes two strings and checks if they are anagrams.
 - Credit: Takes a number and returns if it's a valid credit card number.
 - Long-call: Takes a string and elongates according to set rules.
 - Longest-word: Takes a string and returns the longest word within the string.
