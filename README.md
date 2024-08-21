@@ -8,6 +8,7 @@ A repository to hold the mini challenges completed while using Coddy.
 - Credit: Takes a number and returns if it's a valid credit card number.
 - Long-call: Takes a string and elongates according to set rules.
 - Longest-word: Takes a string and returns the longest word within the string.
+- Merge-and-sort: Takes two arrays of ordered numbers and combines into one ordered array.
 - Palindrome: Takes a string and returns if it's a palindrome.
 - String-reverse: Takes a string and returns the string in reversed character order.
 - Substitution: Takes a string and key and returns an encrypted version of the string.
