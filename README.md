@@ -2,7 +2,9 @@
 
 A repository to hold the mini challenges completed while using Coddy.
 
-## Easy Challenges
+## August Challenges
+
+Notes: First challenges. Heavy use of loops.
 
 - Anagrams: Takes two strings and checks if they are anagrams.
 - Credit: Takes a number and returns if it's a valid credit card number.
@@ -14,6 +16,8 @@ A repository to hold the mini challenges completed while using Coddy.
 - String-reverse: Takes a string and returns the string in reversed character order.
 - Substitution: Takes a string and key and returns an encrypted version of the string.
 - Title case: Takes a string a capitalises the first letter of each word in the string.
+
+## September Challenges
 
 ## Set-up
 
