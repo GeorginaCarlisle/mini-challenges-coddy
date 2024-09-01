@@ -19,6 +19,8 @@ Notes: First challenges. Heavy use of loops.
 
 ## September Challenges
 
+- Taxi-fare: Takes an array of distance and a base fare and calculates the price of the journey
+
 ## Set-up
 
 - npm init
