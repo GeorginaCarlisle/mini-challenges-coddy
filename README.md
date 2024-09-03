@@ -19,7 +19,8 @@ Notes: First challenges. Heavy use of loops.
 
 ## September Challenges
 
-- Taxi-fare: Takes an array of distance and a base fare and calculates the price of the journey
+- Taxi-fare: Takes an array of distance and a base fare and calculates the price of the journey.
+- Title-case: Takes a string of words and returns the string with the first letter of each word capitalised.
 
 ## Set-up
 
