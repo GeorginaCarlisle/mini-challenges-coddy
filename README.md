@@ -2,6 +2,13 @@
 
 A repository to hold the mini challenges completed while using Coddy.
 
+## September Challenges
+
+- Fibonacci: Returns the nth number of the fibonacci sequence.
+- Number-palindrome: Checks if the given number is a palindrome.
+- Taxi-fare: Takes an array of distance and a base fare and calculates the price of the journey.
+- Title-case: Takes a string of words and returns the string with the first letter of each word capitalised.
+
 ## August Challenges
 
 Notes: First challenges. Heavy use of loops.
@@ -16,12 +23,6 @@ Notes: First challenges. Heavy use of loops.
 - String-reverse: Takes a string and returns the string in reversed character order.
 - Substitution: Takes a string and key and returns an encrypted version of the string.
 - Title case: Takes a string a capitalises the first letter of each word in the string.
-
-## September Challenges
-
-- Fibonacci: Returns the nth number of the fibonacci sequence.
-- Taxi-fare: Takes an array of distance and a base fare and calculates the price of the journey.
-- Title-case: Takes a string of words and returns the string with the first letter of each word capitalised.
 
 ## Set-up
 
