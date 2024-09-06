@@ -5,6 +5,7 @@ A repository to hold a selection of challenges completed while using Coddy.
 ## September Challenges
 
 - Array-string-lengths: Takes an array of strings and returns an array showing the lengths of the string in the original array.
+- Common-prefix: Takes an array of strings and returns the longest common prefix.
 - Fibonacci: Returns the nth number of the fibonacci sequence.
 - Mode: Takes an array of numbers and returns the one that occurs the most.
 - Number-palindrome: Checks if the given number is a palindrome.
