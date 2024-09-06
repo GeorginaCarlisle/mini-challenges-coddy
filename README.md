@@ -4,7 +4,9 @@ A repository to hold the mini challenges completed while using Coddy.
 
 ## September Challenges
 
+- Array-string-lengths: Takes an array of strings and returns an array showing the lengths of the string in the original array.
 - Fibonacci: Returns the nth number of the fibonacci sequence.
+- Mode: Takes an array of numbers and returns the one that occurs the most.
 - Number-palindrome: Checks if the given number is a palindrome.
 - Taxi-fare: Takes an array of distance and a base fare and calculates the price of the journey.
 - Title-case: Takes a string of words and returns the string with the first letter of each word capitalised.
