@@ -1,6 +1,6 @@
 # mini-challenges-coddy
 
-A repository to hold the mini challenges completed while using Coddy.
+A repository to hold a selection of challenges completed while using Coddy.
 
 ## September Challenges
 
