@@ -4,6 +4,8 @@ A repository to hold a selection of challenges completed while using Coddy.
 
 ## September Challenges
 
+Easy:
+
 - Array-string-lengths: Takes an array of strings and returns an array showing the lengths of the string in the original array.
 - Common-prefix: Takes an array of strings and returns the longest common prefix.
 - Fibonacci: Returns the nth number of the fibonacci sequence.
@@ -11,6 +13,10 @@ A repository to hold a selection of challenges completed while using Coddy.
 - Number-palindrome: Checks if the given number is a palindrome.
 - Taxi-fare: Takes an array of distance and a base fare and calculates the price of the journey.
 - Title-case: Takes a string of words and returns the string with the first letter of each word capitalised.
+
+Medium:
+
+- Balanced-contrast: Takes an array and manipulates based on a given condition and string.
 
 ## August Challenges
 
