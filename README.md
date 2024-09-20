@@ -17,6 +17,7 @@ Easy:
 Medium:
 
 - Balanced-contrast: Takes an array and manipulates based on a given condition and string.
+- Beach-wave: Takes an array of wave heights and transformation info and returns an array of strings showing how the waves transform.
 
 ## August Challenges
 
